@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.background{
+    height: 735px;
+    width: 1535px;
+}
+.txt{
+    color: white;
+}
